@@ -1,7 +1,7 @@
 # Portfolio | LEE EUIJU
 ## :pushpin: Intro
 안녕하세요! 꿈의 미래를 만들어가는 사람 **이의주**입니다!  
-IoT, Embedded 분야에서 **Embedded Sofrware Developer**로서 빛나기 위해 노력중입니다!
+IoT, Embedded 분야에서 **Embedded Sofrware Engineer**로서 빛나기 위해 노력중입니다!
 
 ## :pushpin: Profile 
 **이의주** <sub>LEE EUIJU / 2000.06.07  
