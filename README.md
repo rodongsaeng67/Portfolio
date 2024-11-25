@@ -8,7 +8,6 @@ IoT, Embedded 분야에서 **Embedded Sofrware Developer**로서 빛나기 위�
 
 > :mortar_board: 2019.03 ~ 2025.02 | **광운대학교 전기공학과 졸업**  
 > :memo: Thesis | **Cost Benefit and Capacity Analysis in Long Term ESS Operation**  
-> :link: 
 >   
 > Programming Languages: **C, C++, Python**  
 > Hardware Platforms: **Raspberry Pi, Arduino**
